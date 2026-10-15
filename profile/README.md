@@ -6,4 +6,6 @@ We build open-source projects at the intersection of artificial intelligence, st
 
 ### Projects
 
-Coming soon.
+**[Comic Chaos](https://github.com/artificial-realities/comic-chaos)** — An interactive comic generator built with generative AI.
+
+*Open source · Self-hostable*
